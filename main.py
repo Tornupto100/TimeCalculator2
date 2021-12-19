@@ -23,4 +23,4 @@ if __name__ == '__main__':
     time_calculator.add_time("11:43 PM", "24:20", "Tuesday")
     time_calculator.add_time("6:30 PM", "205:12")
 
-    "This is just a comment"
+    "Delete this comment"
